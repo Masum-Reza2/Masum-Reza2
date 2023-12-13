@@ -23,7 +23,7 @@
 <h3 align="left">Technologies that i know:</h3>
 
 <div align="center">
-<img align="right" alt="coding gif" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="left" alt="coding gif" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 </div>
 
 <br>
