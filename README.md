@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js and MUI**
 
-- 💬 Ask me about **react and tailwind**
+- 💬 Ask me about **React.js and TailwindCSS**
 
 - 📫 How to reach me **careerhunter4280@gmail.com**
 
@@ -31,7 +31,7 @@
 <h3 align="center">Technologies that i know:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,git,github,firebase,materialui,nodejs,express,mongodb,vercel&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,git,github,firebase,materialui,nodejs,express,mongodb,vercel,jwt&perline=6" />
   </a>
 </p>
 
