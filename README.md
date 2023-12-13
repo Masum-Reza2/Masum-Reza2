@@ -34,6 +34,11 @@
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,git,github" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+  </a>
+</p>
 
 <br>
 
