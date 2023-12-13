@@ -31,20 +31,9 @@
 <h3 align="center">Technologies that i know:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,git,github,firebase,materialui,nodejs,express,mongodb,vercel" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,materialui,nodejs,express" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,vercel" />
-  </a>
-</p>
-
 <br>
 
 <div align="center">
