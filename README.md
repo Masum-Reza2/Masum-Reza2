@@ -29,11 +29,11 @@
 
 <br>
 <h3 align="center">Technologies that i know:</h3>
-|   |   |   |   |   |
-|---|---|---|---|---|
-| [![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com) | [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) | [![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com) | [![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/) | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) |
-| [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) | [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/) | [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org) | [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com) |
-| [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/) | [![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/) |   |   |   |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <br>
 
