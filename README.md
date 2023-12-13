@@ -31,12 +31,12 @@
 <h3 align="center">Technologies that i know:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
