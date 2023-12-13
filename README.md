@@ -33,11 +33,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,git,github,firebase,materialui,nodejs,express,mongodb,vercel&perline=6" />
   </a>
-  <img src="https://jwt.io/"></img>
 </p>
-<br>
 
+<br>
 <div align="center">
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum-reza2&" alt="masum-reza2" /></p>
 
 <br>
