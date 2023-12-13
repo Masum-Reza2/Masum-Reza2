@@ -33,6 +33,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,git,github,firebase,materialui,nodejs,express,mongodb,vercel&perline=6" />
   </a>
+  <a href="https://jwt.io/"></a>
 </p>
 <br>
 
