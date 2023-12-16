@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/masum-reza-4935b92a0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="in/masum-reza-4935b92a0"/></a>
+  <a href="https://linkedin.com/in/masum-reza-4935b92a0" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="in/masum-reza-4935b92a0"/></a>
 </p>
 
 <div align="center">
