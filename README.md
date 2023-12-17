@@ -1,4 +1,4 @@
-![logo](https://github.com/Masum-Reza2/Masum-Reza2/blob/main/Masum%20Reza%20(1).png)
+![logo](https://github.com/Masum-Reza2/Masum-Reza2/blob/main/2.png)
 
 <h1 align="center">Hi 👋, I'm Masum Reza</h1>
 <h3 align="center">A passionate MERN-stack developer from Bangladesh</h3>
